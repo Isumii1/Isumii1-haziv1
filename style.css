@@ -1,0 +1,19 @@
+h1 {
+    font-weight: bold;
+    margin-top: 230px;
+    text-align: center;
+}
+
+body{
+    margin: 40px;
+    font-size: 25px;
+}
+
+#eredmenySzepseg{
+    margin-top: 30px;
+}
+
+.cuccosSzin{
+    color: red;
+    font-weight: bold;
+}
